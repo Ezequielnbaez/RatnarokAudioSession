@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{722643FB-DD12-4388-A067-BD1978F2A504}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{722643FB-DD12-4388-A067-BD1978F2A504}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Click" ID="{96994F2D-00F7-47CB-BFE7-342F2CF69DCC}" ShortID="740103284">
+					<ChildrenList>
+						<Event Name="click_credits" ID="{36DFEBA2-1809-471C-B4DD-0F06D5911F74}"/>
+						<Event Name="click_torret_construction" ID="{80DF0336-AC2F-4AAB-98D0-F29740F51025}"/>
+						<Event Name="click_torret_menu" ID="{C9AD34E2-207C-4AFC-BF82-5AA6F7D5CEE4}"/>
+						<Event Name="coin_get" ID="{8C3AB89E-7CCB-4653-A658-BE5E85D7A6F9}"/>
+						<Event Name="button_start" ID="{C1F5C75B-D940-4A58-8A56-9E90F91590AD}"/>
+						<Event Name="button_generic" ID="{86A7F1F8-9477-43D4-8783-D54CFFEFCCD1}"/>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Enemy" ID="{70D6AC81-1AC5-4497-AAC9-53EC276EEC23}" ShortID="950355221">
+					<ChildrenList>
+						<Event Name="enemy_attack" ID="{733BF8DB-11FC-4B12-A33B-58D5170338DC}"/>
+						<Event Name="enemy_death" ID="{1A44264D-091F-414B-942F-2717D812FF46}"/>
+						<Event Name="hit_cheese" ID="{FDF05DAC-B654-44D8-B45E-9E90AF76DBB4}"/>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Generics" ID="{78AED676-565B-4C58-BC3F-CF7F0F23B12C}" ShortID="571636939">
+					<ChildrenList>
+						<Event Name="bite_cheese" ID="{D0693D2E-4310-4123-8D52-BAAAFC30B0A9}"/>
+						<Event Name="game_start" ID="{69305A0C-9907-4EEF-930D-910D50B10EB4}"/>
+						<Event Name="game_close" ID="{15513578-36E1-41AD-8328-884C18526010}"/>
+						<Event Name="rat_sounds" ID="{F3184B91-D463-468C-AD9E-FB2C76AFE7F2}"/>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Torrets" ID="{ACBDDE06-C25F-4CE9-A968-1AAB0AEAA94D}" ShortID="236539116">
+					<ChildrenList>
+						<Event Name="torret_catapult" ID="{A5D2CEC0-80EE-468A-B6DA-7A4825415072}"/>
+						<Event Name="torret_destruction" ID="{7406909E-78E1-4C12-A013-57FE30A804FB}"/>
+						<Event Name="torret_fire" ID="{FE409E40-D8C3-40ED-8701-53C19F7ED76D}"/>
+						<Event Name="torret_crossbow" ID="{6748E9A9-4179-46C8-AAF8-D6097FEC939E}"/>
+						<Event Name="torret_stuff" ID="{3EB10D74-34FB-4193-9B30-6164BAFA6B72}"/>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Level" ID="{2481B8B2-F6DE-4848-A887-C65F3B5634B1}" ShortID="127709766">
+					<ChildrenList>
+						<Event Name="level_win" ID="{B07434B0-30D7-4B9C-B79B-76A2C6F639FD}"/>
+						<Event Name="level_lose" ID="{68D3806A-D4B8-433C-B379-9338EF33A412}"/>
+						<Event Name="level_prep" ID="{0704A1D1-0418-47E6-B8A4-380EC0BDDABF}"/>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
