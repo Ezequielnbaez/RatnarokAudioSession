@@ -5,7 +5,7 @@
 			<ChildrenList>
 				<Folder Name="GeneralGame" ID="{96ED6632-9ED1-4E25-A93A-4237F06BDFDF}" ShortID="240742990">
 					<ChildrenList>
-						<StateGroup Name="game_scene" ID="{C1BD1C7F-E101-4E96-9791-461463EE1EA1}">
+						<StateGroup Name="menu_scene" ID="{C1BD1C7F-E101-4E96-9791-461463EE1EA1}">
 							<ChildrenList>
 								<State Name="None" ID="{D28B14E7-9A31-42D4-834A-8342D2B2C93C}"/>
 							</ChildrenList>
@@ -37,6 +37,11 @@
 						<StateGroup Name="game_pause" ID="{959945A7-3738-43B2-9CCE-2B38E4B11DFD}">
 							<ChildrenList>
 								<State Name="None" ID="{849D51DB-4C48-4451-BE60-C2481E00CF6D}"/>
+							</ChildrenList>
+						</StateGroup>
+						<StateGroup Name="level_tutorial" ID="{2F8A01E9-C5C2-4BC9-B472-B9D4C9D059B9}">
+							<ChildrenList>
+								<State Name="None" ID="{D29CAAAB-C7A2-432B-95F2-FC59512D43D8}"/>
 							</ChildrenList>
 						</StateGroup>
 					</ChildrenList>
