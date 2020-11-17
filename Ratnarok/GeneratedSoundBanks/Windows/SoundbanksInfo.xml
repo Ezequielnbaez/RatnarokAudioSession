@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3297747470" Language="SFX" Hash="3246613865">
+		<SoundBank Id="3297747470" Language="SFX" Hash="2693958844">
 			<ObjectPath>\SoundBanks\Default Work Unit\GeneralSoundBank</ObjectPath>
 			<ShortName>GeneralSoundBank</ShortName>
 			<Path>GeneralSoundBank.bnk</Path>
@@ -40,6 +40,7 @@
 				<Event Id="733168346" Name="game_start" ObjectPath="\Events\Default Work Unit\Generics\game_start">
 					<SwitchContainers/>
 				</Event>
+				<Event Id="2970769112" Name="Play_Credits" ObjectPath="\Events\Default Work Unit\Play_Credits"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="115798230" Language="SFX">
@@ -53,6 +54,10 @@
 				<File Id="507979991" Language="SFX">
 					<ShortName>enemyHit-001.wav</ShortName>
 					<Path>SFX\enemyHit-001_10C4C929.wem</Path>
+				</File>
+				<File Id="904614063" Language="SFX">
+					<ShortName>credits_music.wav</ShortName>
+					<Path>SFX\credits_music_D79FB2B7.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 			<SwitchGroups>

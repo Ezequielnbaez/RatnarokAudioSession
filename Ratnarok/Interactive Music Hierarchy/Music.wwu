@@ -163,6 +163,9 @@
 									</CueList>
 								</MusicSegment>
 								<MusicSegment Name="Menu" ID="{17C3E7B6-B313-4502-86E2-4A87F2BF0045}" ShortID="247836178">
+									<PropertyList>
+										<Property Name="EndPosition" Type="Real64" Value="91986.8480725624"/>
+									</PropertyList>
 									<ReferenceList>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{9CB756A3-8C97-4326-8F27-A2DE43E77EF0}"/>
@@ -171,6 +174,46 @@
 											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FFE2C114-B073-4E4F-B871-27E1C619E01E}"/>
 										</Reference>
 									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="Menú" ID="{9C58B310-D83B-4884-85B5-1E5BA9734CD0}" ShortID="732164139">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FFE2C114-B073-4E4F-B871-27E1C619E01E}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="Menú" ID="{D26C9F84-0D63-41C5-86D2-A802ECE98167}">
+													<Language>SFX</Language>
+													<AudioFile>Menú.wav</AudioFile>
+													<MediaIDList>
+														<MediaID ID="154176183"/>
+													</MediaIDList>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{07F08523-6327-4543-AF89-88EFE5BB66E3}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{8C8B3529-48F0-4B7C-9A85-D43540F6F94C}">
+													<ClipList>
+														<MusicClip Name="Menú" ID="{873C5D2C-3EEF-4503-B979-E04590037F1C}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="91986.8480725624"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="Menú" ID="{D26C9F84-0D63-41C5-86D2-A802ECE98167}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
 									<CueList>
 										<MusicCue Name="Entry Cue" ID="{CE63F6CF-DC97-41F5-9B06-EE4A419D08CF}"/>
 										<MusicCue Name="Exit Cue" ID="{E2097BB9-DF11-4419-9A05-5475E46D3CF5}">
@@ -214,6 +257,7 @@
 													<PropertyList>
 														<Property Name="IsFolder" Type="bool" Value="True"/>
 													</PropertyList>
+													<ReferenceList/>
 													<TransitionInfo/>
 												</MusicTransition>
 											</TransitionList>
@@ -233,6 +277,23 @@
 											</SequenceList>
 										</MusicTrack>
 									</ChildrenList>
+									<StateInfo>
+										<StateGroupList>
+											<StateGroupInfo>
+												<StateGroupRef Name="credits_in" ID="{865EFFA5-0C8D-4D37-AF76-5F73F017F42E}"/>
+											</StateGroupInfo>
+										</StateGroupList>
+										<CustomStateList>
+											<CustomState>
+												<StateRef Name="out" ID="{201479D4-EEAF-4A1A-BE63-680183C23709}"/>
+												<CustomState Name="" ID="{94FB7662-7992-449B-9E1A-CAFC474F8688}" ShortID="256592289"/>
+											</CustomState>
+											<CustomState>
+												<StateRef Name="in" ID="{E2B407A9-2AAD-4DEA-AA4E-E1169A21421F}"/>
+												<CustomState Name="" ID="{945447EB-ECE8-4682-8E9C-7CF9B847D9E1}" ShortID="776256849"/>
+											</CustomState>
+										</CustomStateList>
+									</StateInfo>
 									<CueList>
 										<MusicCue Name="Entry Cue" ID="{94B79771-38D6-40D3-BD27-5DAADF614E11}"/>
 										<MusicCue Name="Exit Cue" ID="{1F0A3A1D-5977-42C2-81B7-21D878D401D2}">

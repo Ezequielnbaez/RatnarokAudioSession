@@ -1,6 +1,7 @@
 Event	ID	Name			Wwise Object Path	Notes
 	733168346	game_start			\Default Work Unit\Generics\game_start	
 	1781417190	enemy_attack			\Default Work Unit\Enemy\enemy_attack	
+	2970769112	Play_Credits			\Default Work Unit\Play_Credits	
 
 Switch Group	ID	Name			Wwise Object Path	Notes
 	1620872583	General_music			\Default Work Unit\General_music	
@@ -14,8 +15,15 @@ Switch	ID	Name	Switch Group			Notes
 	2782712965	level	Menu			
 	3762955427	tutorial	Menu			
 
+State Group	ID	Name			Wwise Object Path	Notes
+	1647651597	credits_in			\Default Work Unit\GeneralGame\credits_in	
+
+State	ID	Name	State Group			Notes
+	748895195	None	credits_in			
+
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	115798230	enemyHit-003	D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\.cache\Windows\SFX\enemyHit-003_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-003		207948
 	350999598	enemyHit-002	D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\.cache\Windows\SFX\enemyHit-002_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-002		207948
 	507979991	enemyHit-001	D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\.cache\Windows\SFX\enemyHit-001_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-001		207948
+	904614063	credits_music	D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\.cache\Windows\SFX\credits_music_D79FB2B7.wem		\Interactive Music Hierarchy\Music\Credits\credits_music		16341120
 
