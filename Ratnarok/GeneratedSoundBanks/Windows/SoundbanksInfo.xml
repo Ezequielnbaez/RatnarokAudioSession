@@ -11,12 +11,12 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX" Hash="3219055485">
+		<SoundBank Id="1355168291" Language="SFX" Hash="739333794">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3297747470" Language="SFX" Hash="673767443">
+		<SoundBank Id="3297747470" Language="SFX" Hash="3246613865">
 			<ObjectPath>\SoundBanks\Default Work Unit\GeneralSoundBank</ObjectPath>
 			<ShortName>GeneralSoundBank</ShortName>
 			<Path>GeneralSoundBank.bnk</Path>
@@ -37,6 +37,9 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+				<Event Id="733168346" Name="game_start" ObjectPath="\Events\Default Work Unit\Generics\game_start">
+					<SwitchContainers/>
+				</Event>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="115798230" Language="SFX">
@@ -52,6 +55,22 @@
 					<Path>SFX\enemyHit-001_10C4C929.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
+			<SwitchGroups>
+				<SwitchGroup Id="1620872583" Name="General_music" ObjectPath="\Switches\Default Work Unit\General_music">
+					<Switches>
+						<Switch Id="3451125089" Name="menu_general" ObjectPath="\Switches\Default Work Unit\General_music\menu_general"/>
+						<Switch Id="116707640" Name="level_general" ObjectPath="\Switches\Default Work Unit\General_music\level_general"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2607556080" Name="Menu" ObjectPath="\Switches\Default Work Unit\Menu">
+					<Switches>
+						<Switch Id="2607556080" Name="menu" ObjectPath="\Switches\Default Work Unit\Menu\menu"/>
+						<Switch Id="2201105581" Name="credits" ObjectPath="\Switches\Default Work Unit\Menu\credits"/>
+						<Switch Id="3762955427" Name="tutorial" ObjectPath="\Switches\Default Work Unit\Menu\tutorial"/>
+						<Switch Id="2782712965" Name="level" ObjectPath="\Switches\Default Work Unit\Menu\level"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

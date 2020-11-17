@@ -33,7 +33,17 @@
 				<Folder Name="Generics" ID="{78AED676-565B-4C58-BC3F-CF7F0F23B12C}" ShortID="571636939">
 					<ChildrenList>
 						<Event Name="bite_cheese" ID="{D0693D2E-4310-4123-8D52-BAAAFC30B0A9}"/>
-						<Event Name="game_start" ID="{69305A0C-9907-4EEF-930D-910D50B10EB4}"/>
+						<Event Name="game_start" ID="{69305A0C-9907-4EEF-930D-910D50B10EB4}">
+							<ChildrenList>
+								<Action Name="" ID="{A2128E03-E68B-41C1-8452-ADFE6FC4AE40}" ShortID="240101223">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="General" ID="{83C90651-C30C-410B-B2A6-8E92A9F3119D}" WorkUnitID="{4DFDD36A-F97F-40D4-ABB9-1BAF00842671}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="game_close" ID="{15513578-36E1-41AD-8328-884C18526010}"/>
 						<Event Name="rat_sounds" ID="{F3184B91-D463-468C-AD9E-FB2C76AFE7F2}"/>
 					</ChildrenList>
@@ -54,6 +64,28 @@
 						<Event Name="level_prep" ID="{0704A1D1-0418-47E6-B8A4-380EC0BDDABF}"/>
 					</ChildrenList>
 				</Folder>
+				<Event Name="Play_Menu_general" ID="{154FE6A3-C5B0-403F-8EFC-F8A009F42E08}">
+					<ChildrenList>
+						<Action Name="" ID="{C683A98C-1F9B-4431-9A16-3F988AF42013}" ShortID="963529552">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Menu_general" ID="{D1104CF1-CFA1-4E15-B2DA-A86BEB566C57}" WorkUnitID="{4DFDD36A-F97F-40D4-ABB9-1BAF00842671}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Credits" ID="{F2F41FF7-695E-40DC-9362-E652A62D6CFC}">
+					<ChildrenList>
+						<Action Name="" ID="{DA334655-CE97-435B-AA8D-FE3024D5B531}" ShortID="915895138">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Credits" ID="{C5ECC937-659D-4058-8371-248F72943EF5}" WorkUnitID="{4DFDD36A-F97F-40D4-ABB9-1BAF00842671}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

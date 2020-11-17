@@ -257,6 +257,19 @@
 									<TransitionInfo/>
 								</MusicTransition>
 							</TransitionList>
+							<ArgumentList>
+								<ArgumentRef Name="Menu" ID="{BAE03956-DC07-4C7A-968C-AC9E8B2CA5DA}"/>
+							</ArgumentList>
+							<EntryList>
+								<Entry>
+									<Path>
+										<PathElementRef Name="credits" ID="{FB2651B9-DD32-474E-BE15-E6AB91AD2724}"/>
+									</Path>
+									<AudioNodeInfo>
+										<NoObject Platform="Linked"/>
+									</AudioNodeInfo>
+								</Entry>
+							</EntryList>
 						</MusicSwitchContainer>
 					</ChildrenList>
 					<TransitionList>
@@ -272,6 +285,19 @@
 							<TransitionInfo/>
 						</MusicTransition>
 					</TransitionList>
+					<ArgumentList>
+						<ArgumentRef Name="General_music" ID="{48E60DD9-89EE-48BE-A220-69896BCD4DE6}"/>
+					</ArgumentList>
+					<EntryList>
+						<Entry>
+							<Path>
+								<PathElementRef Name="menu_general" ID="{BD543E5E-D711-4A71-9FA7-40E31F8A10FB}"/>
+							</Path>
+							<AudioNodeInfo>
+								<AudioNodeRef Name="Menu_general" ID="{D1104CF1-CFA1-4E15-B2DA-A86BEB566C57}" WorkUnitID="{4DFDD36A-F97F-40D4-ABB9-1BAF00842671}" Platform="Linked"/>
+							</AudioNodeInfo>
+						</Entry>
+					</EntryList>
 				</MusicSwitchContainer>
 			</ChildrenList>
 		</WorkUnit>
