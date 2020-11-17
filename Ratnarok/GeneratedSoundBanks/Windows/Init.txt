@@ -1,17 +1,19 @@
 State Group	ID	Name			Wwise Object Path	Notes
+	565615430	level_tutorial			\Default Work Unit\Level\level_tutorial	
 	1647651597	credits_in			\Default Work Unit\GeneralGame\credits_in	
 	1683582579	ratary_open			\Default Work Unit\GeneralGame\ratary_open	
-	1983675242	game_scene			\Default Work Unit\GeneralGame\game_scene	
 	2772308904	game_pause			\Default Work Unit\Level\game_pause	
 	3754275798	level_horde			\Default Work Unit\Level\level_horde	
+	4094426505	menu_scene			\Default Work Unit\GeneralGame\menu_scene	
 	4210176465	level_normal			\Default Work Unit\Level\level_normal	
 
 State	ID	Name	State Group			Notes
+	748895195	None	level_tutorial			
 	748895195	None	credits_in			
 	748895195	None	ratary_open			
-	748895195	None	game_scene			
 	748895195	None	game_pause			
 	748895195	None	level_horde			
+	748895195	None	menu_scene			
 	748895195	None	level_normal			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
