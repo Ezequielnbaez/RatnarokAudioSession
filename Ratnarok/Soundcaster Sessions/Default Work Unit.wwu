@@ -79,7 +79,7 @@
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="menu_general" ID="{BD543E5E-D711-4A71-9FA7-40E31F8A10FB}"/>
-						<CurrentSwitchRef Name="credits" ID="{FB2651B9-DD32-474E-BE15-E6AB91AD2724}"/>
+						<CurrentSwitchRef Name="tutorial" ID="{5189BA5D-1262-4348-B4BE-ED39912DFDB4}"/>
 					</CurrentSwitchList>
 				</SoundcasterSession>
 			</ChildrenList>

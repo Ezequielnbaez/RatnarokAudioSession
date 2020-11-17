@@ -3,11 +3,12 @@
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1602531847" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Virtual Acoustics\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Triggers\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Switches\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\States\Default Work Unit.wwu" DateLow="1605108009" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\SoundBanks\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Ratnarok.wproj" DateLow="1605107194" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Switches\Default Work Unit.wwu" DateLow="1605577217" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\States\Default Work Unit.wwu" DateLow="1605576916" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1605576916" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\SoundBanks\Default Work Unit.wwu" DateLow="1605575960" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Ratnarok.wproj" DateLow="1605572842" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Ratnarok.Eze.wsettings" DateLow="1605578833" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Queries\Factory Queries.wwu" DateLow="1602531684" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Queries\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Presets\Factory Spatial Audio.wwu" DateLow="1602531684" DateHigh="0"/>
@@ -16,11 +17,12 @@
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Modulators\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Mixing Sessions\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1605108009" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Interactive Music Hierarchy\Music.wwu" DateLow="1605577700" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1605108185" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1602531843" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Game Parameters\Factory Motion.wwu" DateLow="1602531851" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Game Parameters\Default Work Unit.wwu" DateLow="1605108185" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Events\Default Work Unit.wwu" DateLow="1605108009" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Events\Default Work Unit.wwu" DateLow="1605577217" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Effects\Factory Reflect.wwu" DateLow="1602531847" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Effects\Factory McDSP Effects.wwu" DateLow="1602531806" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Effects\Factory Mastering Suite.wwu" DateLow="1602531855" DateHigh="0"/>
@@ -40,6 +42,7 @@
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Control Surface Sessions\Default Work Unit.wwu" DateLow="1605107194" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Audio Devices\Default Work Unit.wwu" DateLow="1605108009" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Attenuations\Default Work Unit.wwu" DateLow="1605107195" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Actor-Mixer Hierarchy\FactoryEnemy.wwu" DateLow="1605571835" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1602531684" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1602531843" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1605108009" DateHigh="0"/>
