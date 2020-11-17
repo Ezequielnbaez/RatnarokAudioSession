@@ -15,7 +15,17 @@
 				</Folder>
 				<Folder Name="Enemy" ID="{70D6AC81-1AC5-4497-AAC9-53EC276EEC23}" ShortID="950355221">
 					<ChildrenList>
-						<Event Name="enemy_attack" ID="{733BF8DB-11FC-4B12-A33B-58D5170338DC}"/>
+						<Event Name="enemy_attack" ID="{733BF8DB-11FC-4B12-A33B-58D5170338DC}">
+							<ChildrenList>
+								<Action Name="" ID="{20F5192B-595A-473B-9D7B-5F016C54C8A7}" ShortID="731765710">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="enemy_hit" ID="{69EA3F0B-8143-4564-9404-1B659D0BEC97}" WorkUnitID="{650E708F-B7D0-4C8C-9158-A18D50466077}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
 						<Event Name="enemy_death" ID="{1A44264D-091F-414B-942F-2717D812FF46}"/>
 						<Event Name="hit_cheese" ID="{FDF05DAC-B654-44D8-B45E-9E90AF76DBB4}"/>
 					</ChildrenList>
