@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{650E708F-B7D0-4C8C-9158-A18D50466077}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="FactoryEnemy" ID="{650E708F-B7D0-4C8C-9158-A18D50466077}" PersistMode="Standalone"/>
+	</AudioObjects>
+</WwiseDocument>

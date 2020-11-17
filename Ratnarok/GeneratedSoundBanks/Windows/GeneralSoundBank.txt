@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1781417190	enemy_attack			\Default Work Unit\Enemy\enemy_attack	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	115798230	enemyHit-003	D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\.cache\Windows\SFX\enemyHit-003_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-003		207948
+	350999598	enemyHit-002	D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\.cache\Windows\SFX\enemyHit-002_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-002		207948
+	507979991	enemyHit-001	D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\.cache\Windows\SFX\enemyHit-001_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-001		207948
+

@@ -1,0 +1,41 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1647651597	credits_in			\Default Work Unit\GeneralGame\credits_in	
+	1683582579	ratary_open			\Default Work Unit\GeneralGame\ratary_open	
+	1983675242	game_scene			\Default Work Unit\GeneralGame\game_scene	
+	2772308904	game_pause			\Default Work Unit\Level\game_pause	
+	3754275798	level_horde			\Default Work Unit\Level\level_horde	
+	4210176465	level_normal			\Default Work Unit\Level\level_normal	
+
+State	ID	Name	State Group			Notes
+	748895195	None	credits_in			
+	748895195	None	ratary_open			
+	748895195	None	game_scene			
+	748895195	None	game_pause			
+	748895195	None	level_horde			
+	748895195	None	level_normal			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	504532776	Brick			\Factory Reflect Acoustic Textures\Textures\Brick	
+	513139656	Mountain			\Factory Reflect Acoustic Textures\Textures\Mountain	
+	841620460	Concrete			\Factory Reflect Acoustic Textures\Textures\Concrete	
+	1755085759	Wood_Deep			\Factory Reflect Acoustic Textures\Textures\Wood_Deep	
+	1873957695	Anechoic			\Factory Reflect Acoustic Textures\Textures\Anechoic	
+	1970351858	Fabric			\Factory Reflect Acoustic Textures\Textures\Fabric	
+	2058049674	Wood			\Factory Reflect Acoustic Textures\Textures\Wood	
+	2412606308	Carpet			\Factory Reflect Acoustic Textures\Textures\Carpet	
+	2637588553	Tile			\Factory Reflect Acoustic Textures\Textures\Tile	
+	2928161104	Curtains			\Factory Reflect Acoustic Textures\Textures\Curtains	
+	3195498748	Cork_Tiles			\Factory Reflect Acoustic Textures\Textures\Cork_Tiles	
+	3670307564	Drywall			\Factory Reflect Acoustic Textures\Textures\Drywall	
+	4168643977	Acoustic_Banner			\Factory Reflect Acoustic Textures\Textures\Acoustic_Banner	
+	4262522749	Wood_Bright			\Factory Reflect Acoustic Textures\Textures\Wood_Bright	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	985987111	Motion Factory Bus			\Default Work Unit\Motion Factory Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+	4230635974	Default_Motion_Device	Wwise Motion			
+

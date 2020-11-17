@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\</ProjectRoot>
+		<SourceFilesRoot>D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Documentos\RatnarokRepository\RatnarokAudioSession\Ratnarok\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3219055485">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3297747470" Language="SFX" Hash="673767443">
+			<ObjectPath>\SoundBanks\Default Work Unit\GeneralSoundBank</ObjectPath>
+			<ShortName>GeneralSoundBank</ShortName>
+			<Path>GeneralSoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1781417190" Name="enemy_attack" ObjectPath="\Events\Default Work Unit\Enemy\enemy_attack">
+					<IncludedMemoryFiles>
+						<File Id="115798230" Language="SFX">
+							<ShortName>enemyHit-003.wav</ShortName>
+							<Path>SFX\enemyHit-003_10C4C929.wem</Path>
+						</File>
+						<File Id="350999598" Language="SFX">
+							<ShortName>enemyHit-002.wav</ShortName>
+							<Path>SFX\enemyHit-002_10C4C929.wem</Path>
+						</File>
+						<File Id="507979991" Language="SFX">
+							<ShortName>enemyHit-001.wav</ShortName>
+							<Path>SFX\enemyHit-001_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="115798230" Language="SFX">
+					<ShortName>enemyHit-003.wav</ShortName>
+					<Path>SFX\enemyHit-003_10C4C929.wem</Path>
+				</File>
+				<File Id="350999598" Language="SFX">
+					<ShortName>enemyHit-002.wav</ShortName>
+					<Path>SFX\enemyHit-002_10C4C929.wem</Path>
+				</File>
+				<File Id="507979991" Language="SFX">
+					<ShortName>enemyHit-001.wav</ShortName>
+					<Path>SFX\enemyHit-001_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
