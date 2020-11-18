@@ -26,7 +26,6 @@ Event	ID	Name			Wwise Object Path	Notes
 Switch Group	ID	Name			Wwise Object Path	Notes
 	1620872583	General_music			\Default Work Unit\General_music	
 	2607556080	Menu			\Default Work Unit\Menu	
-	2782712965	Level			\Default Work Unit\Level	
 
 Switch	ID	Name	Switch Group			Notes
 	116707640	level_general	General_music			
@@ -34,8 +33,6 @@ Switch	ID	Name	Switch Group			Notes
 	2201105581	credits	Menu			
 	2607556080	menu	Menu			
 	3762955427	tutorial	Menu			
-	1160234136	normal	Level			
-	4005846101	horde	Level			
 
 State Group	ID	Name			Wwise Object Path	Notes
 	453242039	level_state			\Default Work Unit\Level\level_state	
@@ -59,13 +56,13 @@ State	ID	Name	State Group			Notes
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	115798230	enemyHit-003	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\enemyHit-003_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-003		207948
 	154176183	Menú	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\Menú_D79FB2B7.wem		\Interactive Music Hierarchy\Music\General\Level\Menú\Menú		16226608
+	307528027	Menú2	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\Menú2_D79FB2B7.wem		\Interactive Music Hierarchy\Music\General\Menu_general\Menu\Menú2		15180972
 	350999598	enemyHit-002	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\enemyHit-002_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-002		207948
 	369906034	Win_SFX	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\Win_SFX_D79FB2B7.wem		\Interactive Music Hierarchy\Music\General\Level\level_win_music\Win_SFX		2698188
 	507979991	enemyHit-001	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\enemyHit-001_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryEnemy\enemy_hit\enemyHit-001		207948
-	559386916	Horda	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\Horda_D79FB2B7.wem		\Interactive Music Hierarchy\Music\General\Level\level_horde_music\Horda		9820952
-	653121419	torret_construct	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\torret_construct_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryTorrets\torret_construct		996724
+	653121419	torret_construct	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\torret_construct_6941B6E6.wem		\Actor-Mixer Hierarchy\FactoryTorrets\torret_construct		227040
 	657505009	Begin_Level	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\Begin_Level_D79FB2B7.wem		\Interactive Music Hierarchy\Music\General\Level\level_start_music\Begin_Level		458172
-	764667585	torret_fire	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\torret_fire_10C4C929.wem		\Actor-Mixer Hierarchy\FactoryTorrets\torret_fire		996724
+	764667585	torret_fire	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\torret_fire_48360DC3.wem		\Actor-Mixer Hierarchy\FactoryTorrets\torret_fire		525700
 	823775830	Game_Over_Sfx	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\Game_Over_Sfx_D79FB2B7.wem		\Interactive Music Hierarchy\Music\General\Level\level_lose_music\Game_Over_Sfx		801132
 	837105462	Menu_Sfx	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\Menu_Sfx_10C4C929.wem		\Actor-Mixer Hierarchy\GeneralMenu\Menu_Sfx		239636
 	904614063	credits_music	C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\.cache\Mac\SFX\credits_music_D79FB2B7.wem		\Interactive Music Hierarchy\Music\General\Menu_general\Credits\credits_music		16341120

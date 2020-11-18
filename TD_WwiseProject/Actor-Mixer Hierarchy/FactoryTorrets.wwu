@@ -14,6 +14,13 @@
 					</ReferenceList>
 					<ChildrenList>
 						<AudioFileSource Name="torret_construct" ID="{45DBC72F-9A9B-439A-A50F-CED9AB8562BB}">
+							<PropertyList>
+								<Property Name="FadeInDuration" Type="Real64" Value="0.203167808219178"/>
+								<Property Name="FadeOutDuration" Type="Real64" Value="0.212842465753425"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="0.454708904109589"/>
+								<Property Name="TrimEnd" Type="Real64" Value="1.74143835616438"/>
+							</PropertyList>
 							<Language>SFX</Language>
 							<AudioFile>torret_construct.wav</AudioFile>
 							<MediaIDList>
@@ -36,6 +43,16 @@
 					</ReferenceList>
 					<ChildrenList>
 						<AudioFileSource Name="torret_fire" ID="{702022F1-0FE6-49FD-A4C9-45B3C001EA42}">
+							<PropertyList>
+								<Property Name="FadeOutDuration" Type="Real64" Value="0.0967465753424657"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimEnd" Type="Real64" Value="2.97979452054795"/>
+								<Property Name="VolumeOffset" Type="Real64">
+									<ValueList>
+										<Value>-5.9</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
 							<Language>SFX</Language>
 							<AudioFile>torret_fire.wav</AudioFile>
 							<MediaIDList>

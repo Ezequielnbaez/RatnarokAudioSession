@@ -16,12 +16,6 @@
 						<Switch Name="level_general" ID="{B5519A27-A3CF-4EAC-9C39-EAE20BC07A3E}"/>
 					</ChildrenList>
 				</SwitchGroup>
-				<SwitchGroup Name="Level" ID="{0D13F4C8-5A6D-4D91-8842-4AD6AA335B92}">
-					<ChildrenList>
-						<Switch Name="normal" ID="{24638465-719B-403E-ACC9-E16DC1805172}"/>
-						<Switch Name="horde" ID="{9015DD62-C32B-48C1-90DF-5B5DDCEA3C38}"/>
-					</ChildrenList>
-				</SwitchGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>

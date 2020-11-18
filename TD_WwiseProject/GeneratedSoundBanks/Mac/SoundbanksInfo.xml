@@ -16,13 +16,13 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3297747470" Language="SFX" Hash="1767709643">
+		<SoundBank Id="3297747470" Language="SFX" Hash="1452847325">
 			<ObjectPath>\SoundBanks\Default Work Unit\GeneralSoundBank</ObjectPath>
 			<ShortName>GeneralSoundBank</ShortName>
 			<Path>GeneralSoundBank.bnk</Path>
 			<IncludedEvents>
 				<Event Id="2943011873" Name="bite_cheese" ObjectPath="\Events\Default Work Unit\Generics\bite_cheese" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
-				<Event Id="1301445487" Name="button_generic" ObjectPath="\Events\Default Work Unit\Click\button_generic" DurationType="OneShot" DurationMin="1.358118" DurationMax="1.358118">
+				<Event Id="1301445487" Name="button_generic" ObjectPath="\Events\Default Work Unit\Click\button_generic" DurationType="OneShot" DurationMin="0.915909" DurationMax="1.690491">
 					<IncludedMemoryFiles>
 						<File Id="837105462" Language="SFX">
 							<ShortName>Menu_Sfx.wav</ShortName>
@@ -33,9 +33,9 @@
 				<Event Id="3228713348" Name="button_start" ObjectPath="\Events\Default Work Unit\Click\button_start" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
 				<Event Id="2902583908" Name="click_credits" ObjectPath="\Events\Default Work Unit\Click\click_credits" DurationType="Infinite">
 					<IncludedMemoryFiles>
-						<File Id="154176183" Language="SFX">
-							<ShortName>Menú.wav</ShortName>
-							<Path>SFX\Menú_D79FB2B7.wem</Path>
+						<File Id="307528027" Language="SFX">
+							<ShortName>Menú2.wav</ShortName>
+							<Path>SFX\Menú2_D79FB2B7.wem</Path>
 						</File>
 						<File Id="904614063" Language="SFX">
 							<ShortName>credits_music.wav</ShortName>
@@ -56,18 +56,18 @@
 							<Children>
 								<SwitchContainer SwitchValue="{20151CA6-91F3-4D9A-BDB3-B99D77EEFED0}">
 									<Media>
-										<File Id="154176183"/>
+										<File Id="307528027"/>
 									</Media>
 								</SwitchContainer>
 							</Children>
 						</SwitchContainer>
 					</SwitchContainers>
 				</Event>
-				<Event Id="3104903294" Name="click_torret_construction" ObjectPath="\Events\Default Work Unit\Click\click_torret_construction" DurationType="OneShot" DurationMin="5.650000" DurationMax="5.650000">
+				<Event Id="3104903294" Name="click_torret_construction" ObjectPath="\Events\Default Work Unit\Click\click_torret_construction" DurationType="OneShot" DurationMin="1.286729" DurationMax="1.286729">
 					<IncludedMemoryFiles>
 						<File Id="653121419" Language="SFX">
 							<ShortName>torret_construct.wav</ShortName>
-							<Path>SFX\torret_construct_10C4C929.wem</Path>
+							<Path>SFX\torret_construct_6941B6E6.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -97,13 +97,13 @@
 							<ShortName>Menú.wav</ShortName>
 							<Path>SFX\Menú_D79FB2B7.wem</Path>
 						</File>
+						<File Id="307528027" Language="SFX">
+							<ShortName>Menú2.wav</ShortName>
+							<Path>SFX\Menú2_D79FB2B7.wem</Path>
+						</File>
 						<File Id="369906034" Language="SFX">
 							<ShortName>Win_SFX.wav</ShortName>
 							<Path>SFX\Win_SFX_D79FB2B7.wem</Path>
-						</File>
-						<File Id="559386916" Language="SFX">
-							<ShortName>Horda.wav</ShortName>
-							<Path>SFX\Horda_D79FB2B7.wem</Path>
 						</File>
 						<File Id="823775830" Language="SFX">
 							<ShortName>Game_Over_Sfx.wav</ShortName>
@@ -122,59 +122,27 @@
 										<SwitchContainer SwitchValue="{8CC146C8-178D-47A2-A789-052373811008}">
 											<Children>
 												<SwitchContainer SwitchValue="{87562DFF-695D-42F9-B13A-458905DC3CF4}">
-													<Children>
-														<SwitchContainer SwitchValue="{0D13F4C8-5A6D-4D91-8842-4AD6AA335B92}">
-															<Media>
-																<File Id="154176183"/>
-															</Media>
-														</SwitchContainer>
-													</Children>
+													<Media>
+														<File Id="154176183"/>
+													</Media>
 												</SwitchContainer>
 											</Children>
 										</SwitchContainer>
 										<SwitchContainer SwitchValue="{3D461FE8-020F-4440-9B58-470C417099FA}">
 											<Children>
 												<SwitchContainer SwitchValue="{87562DFF-695D-42F9-B13A-458905DC3CF4}">
-													<Children>
-														<SwitchContainer SwitchValue="{0D13F4C8-5A6D-4D91-8842-4AD6AA335B92}">
-															<Media>
-																<File Id="823775830"/>
-															</Media>
-														</SwitchContainer>
-													</Children>
+													<Media>
+														<File Id="823775830"/>
+													</Media>
 												</SwitchContainer>
 											</Children>
 										</SwitchContainer>
 										<SwitchContainer SwitchValue="{8CC146C8-178D-47A2-A789-052373811008}">
 											<Children>
 												<SwitchContainer SwitchValue="{A04193BA-DD84-47D8-851C-6C1CE5B55887}">
-													<Children>
-														<SwitchContainer SwitchValue="{0D13F4C8-5A6D-4D91-8842-4AD6AA335B92}">
-															<Media>
-																<File Id="369906034"/>
-															</Media>
-														</SwitchContainer>
-													</Children>
-												</SwitchContainer>
-											</Children>
-										</SwitchContainer>
-										<SwitchContainer SwitchValue="{8CC146C8-178D-47A2-A789-052373811008}">
-											<Children>
-												<SwitchContainer SwitchValue="{F1750007-D457-4C33-A2DA-80AD2CE9A8B3}">
-													<Children>
-														<SwitchContainer SwitchValue="{9015DD62-C32B-48C1-90DF-5B5DDCEA3C38}">
-															<Media>
-																<File Id="559386916"/>
-															</Media>
-														</SwitchContainer>
-													</Children>
-												</SwitchContainer>
-											</Children>
-										</SwitchContainer>
-										<SwitchContainer SwitchValue="{8CC146C8-178D-47A2-A789-052373811008}">
-											<Children>
-												<SwitchContainer SwitchValue="{F1750007-D457-4C33-A2DA-80AD2CE9A8B3}">
-													<Children/>
+													<Media>
+														<File Id="369906034"/>
+													</Media>
 												</SwitchContainer>
 											</Children>
 										</SwitchContainer>
@@ -199,7 +167,7 @@
 											<Children>
 												<SwitchContainer SwitchValue="{20151CA6-91F3-4D9A-BDB3-B99D77EEFED0}">
 													<Media>
-														<File Id="154176183"/>
+														<File Id="307528027"/>
 													</Media>
 												</SwitchContainer>
 											</Children>
@@ -244,11 +212,11 @@
 				<Event Id="46674184" Name="torret_catapult" ObjectPath="\Events\Default Work Unit\Torrets\torret_catapult" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
 				<Event Id="1695855716" Name="torret_crossbow" ObjectPath="\Events\Default Work Unit\Torrets\torret_crossbow" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
 				<Event Id="3717628084" Name="torret_destruction" ObjectPath="\Events\Default Work Unit\Torrets\torret_destruction" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
-				<Event Id="1568618364" Name="torret_fire" ObjectPath="\Events\Default Work Unit\Torrets\torret_fire" DurationType="OneShot" DurationMin="5.650000" DurationMax="5.650000">
+				<Event Id="1568618364" Name="torret_fire" ObjectPath="\Events\Default Work Unit\Torrets\torret_fire" DurationType="OneShot" DurationMin="2.979795" DurationMax="2.979795">
 					<IncludedMemoryFiles>
 						<File Id="764667585" Language="SFX">
 							<ShortName>torret_fire.wav</ShortName>
-							<Path>SFX\torret_fire_10C4C929.wem</Path>
+							<Path>SFX\torret_fire_48360DC3.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
@@ -263,6 +231,10 @@
 					<ShortName>Menú.wav</ShortName>
 					<Path>SFX\Menú_D79FB2B7.wem</Path>
 				</File>
+				<File Id="307528027" Language="SFX">
+					<ShortName>Menú2.wav</ShortName>
+					<Path>SFX\Menú2_D79FB2B7.wem</Path>
+				</File>
 				<File Id="350999598" Language="SFX">
 					<ShortName>enemyHit-002.wav</ShortName>
 					<Path>SFX\enemyHit-002_10C4C929.wem</Path>
@@ -275,17 +247,13 @@
 					<ShortName>enemyHit-001.wav</ShortName>
 					<Path>SFX\enemyHit-001_10C4C929.wem</Path>
 				</File>
-				<File Id="559386916" Language="SFX">
-					<ShortName>Horda.wav</ShortName>
-					<Path>SFX\Horda_D79FB2B7.wem</Path>
-				</File>
 				<File Id="653121419" Language="SFX">
 					<ShortName>torret_construct.wav</ShortName>
-					<Path>SFX\torret_construct_10C4C929.wem</Path>
+					<Path>SFX\torret_construct_6941B6E6.wem</Path>
 				</File>
 				<File Id="764667585" Language="SFX">
 					<ShortName>torret_fire.wav</ShortName>
-					<Path>SFX\torret_fire_10C4C929.wem</Path>
+					<Path>SFX\torret_fire_48360DC3.wem</Path>
 				</File>
 				<File Id="823775830" Language="SFX">
 					<ShortName>Game_Over_Sfx.wav</ShortName>
@@ -338,12 +306,6 @@
 						<Switch Id="2607556080" Name="menu" ObjectPath="\Switches\Default Work Unit\Menu\menu"/>
 						<Switch Id="2201105581" Name="credits" ObjectPath="\Switches\Default Work Unit\Menu\credits"/>
 						<Switch Id="3762955427" Name="tutorial" ObjectPath="\Switches\Default Work Unit\Menu\tutorial"/>
-					</Switches>
-				</SwitchGroup>
-				<SwitchGroup Id="2782712965" Name="Level" ObjectPath="\Switches\Default Work Unit\Level">
-					<Switches>
-						<Switch Id="1160234136" Name="normal" ObjectPath="\Switches\Default Work Unit\Level\normal"/>
-						<Switch Id="4005846101" Name="horde" ObjectPath="\Switches\Default Work Unit\Level\horde"/>
 					</Switches>
 				</SwitchGroup>
 			</SwitchGroups>
