@@ -6,6 +6,34 @@
 				<MusicSwitchContainer Name="General" ID="{83C90651-C30C-410B-B2A6-8E92A9F3119D}" ShortID="549085571">
 					<PropertyList>
 						<Property Name="ContinuePlay" Type="bool" Value="False"/>
+						<Property Name="MakeUpGain" Type="Real64">
+							<RTPCList>
+								<RTPC Name="" ID="{269B4CCA-1CE6-4E8F-BD8A-271FA65C92C8}" ShortID="394428577">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="music_option" ID="{55838968-5809-47FD-B1BE-B823597515EB}" WorkUnitID="{93120F39-8D7E-4C04-9B99-15DF423C4258}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{16E18596-16E1-4543-904B-BC904EC3B4ED}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="3"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-96</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>0</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">

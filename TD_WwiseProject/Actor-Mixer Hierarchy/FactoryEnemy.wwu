@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{650E708F-B7D0-4C8C-9158-A18D50466077}" SchemaVersion="97">
+<WwiseDocument Type="WorkUnit" ID="{650E708F-B7D0-4C8C-9158-A18D50466077}" SchemaVersion="97" RootDocumentID="{C8C5706F-C75F-4F9C-B645-B4A5FD1DC957}">
 	<AudioObjects>
-		<WorkUnit Name="FactoryEnemy" ID="{650E708F-B7D0-4C8C-9158-A18D50466077}" PersistMode="Standalone">
+		<WorkUnit Name="FactoryEnemy" ID="{650E708F-B7D0-4C8C-9158-A18D50466077}" OwnerID="{B407530D-72BF-487E-8546-EA754E0B2236}" PersistMode="Nested">
 			<ChildrenList>
 				<RandomSequenceContainer Name="enemy_hit" ID="{69EA3F0B-8143-4564-9404-1B659D0BEC97}" ShortID="1068877790">
 					<PropertyList>

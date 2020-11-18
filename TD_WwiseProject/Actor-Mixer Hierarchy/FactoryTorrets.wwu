@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{7961E230-2249-4E91-A439-9F2806FA19BB}" SchemaVersion="97">
+<WwiseDocument Type="WorkUnit" ID="{7961E230-2249-4E91-A439-9F2806FA19BB}" SchemaVersion="97" RootDocumentID="{C8C5706F-C75F-4F9C-B645-B4A5FD1DC957}">
 	<AudioObjects>
-		<WorkUnit Name="FactoryTorrets" ID="{7961E230-2249-4E91-A439-9F2806FA19BB}" PersistMode="Standalone">
+		<WorkUnit Name="FactoryTorrets" ID="{7961E230-2249-4E91-A439-9F2806FA19BB}" OwnerID="{B407530D-72BF-487E-8546-EA754E0B2236}" PersistMode="Nested">
 			<ChildrenList>
 				<Sound Name="torret_construct" ID="{271A9062-7599-407A-ADB9-A81EC47DCB06}" ShortID="1974754">
 					<ReferenceList>

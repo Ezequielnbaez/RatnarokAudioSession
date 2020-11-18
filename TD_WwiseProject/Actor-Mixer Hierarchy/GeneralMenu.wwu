@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{1B1CCF24-71AA-44D0-8AB2-C270C805CA78}" SchemaVersion="97">
+<WwiseDocument Type="WorkUnit" ID="{1B1CCF24-71AA-44D0-8AB2-C270C805CA78}" SchemaVersion="97" RootDocumentID="{C8C5706F-C75F-4F9C-B645-B4A5FD1DC957}">
 	<AudioObjects>
-		<WorkUnit Name="GeneralMenu" ID="{1B1CCF24-71AA-44D0-8AB2-C270C805CA78}" PersistMode="Standalone">
+		<WorkUnit Name="GeneralMenu" ID="{1B1CCF24-71AA-44D0-8AB2-C270C805CA78}" OwnerID="{B407530D-72BF-487E-8546-EA754E0B2236}" PersistMode="Nested">
 			<ChildrenList>
 				<Sound Name="Menu_Sfx" ID="{F36DBAFA-FE97-436C-BE08-A182B1DDA8CC}" ShortID="81978409">
 					<PropertyList>
