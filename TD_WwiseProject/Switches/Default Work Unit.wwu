@@ -8,13 +8,18 @@
 						<Switch Name="menu" ID="{20151CA6-91F3-4D9A-BDB3-B99D77EEFED0}"/>
 						<Switch Name="credits" ID="{FB2651B9-DD32-474E-BE15-E6AB91AD2724}"/>
 						<Switch Name="tutorial" ID="{5189BA5D-1262-4348-B4BE-ED39912DFDB4}"/>
-						<Switch Name="level" ID="{57EC179C-416E-4430-8613-391744F942F4}"/>
 					</ChildrenList>
 				</SwitchGroup>
 				<SwitchGroup Name="General_music" ID="{48E60DD9-89EE-48BE-A220-69896BCD4DE6}">
 					<ChildrenList>
 						<Switch Name="menu_general" ID="{BD543E5E-D711-4A71-9FA7-40E31F8A10FB}"/>
 						<Switch Name="level_general" ID="{B5519A27-A3CF-4EAC-9C39-EAE20BC07A3E}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Level" ID="{0D13F4C8-5A6D-4D91-8842-4AD6AA335B92}">
+					<ChildrenList>
+						<Switch Name="normal" ID="{24638465-719B-403E-ACC9-E16DC1805172}"/>
+						<Switch Name="horde" ID="{9015DD62-C32B-48C1-90DF-5B5DDCEA3C38}"/>
 					</ChildrenList>
 				</SwitchGroup>
 			</ChildrenList>

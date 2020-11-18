@@ -4,12 +4,6 @@
 		<WorkUnit Name="Default Work Unit" ID="{D24D43AF-CAB5-4F48-A402-802BEDEBE8A9}" PersistMode="Standalone">
 			<ChildrenList>
 				<SoundcasterSession Name="Prueba" ID="{AA47DE01-80E7-4E8C-9BA6-26C0F77C53C2}">
-					<ModuleList>
-						<Module>
-							<ObjectRef Name="Play_Credits_01" ID="{A01D9288-C7DC-48D1-8828-E320804DCAB8}" WorkUnitID="{722643FB-DD12-4388-A067-BD1978F2A504}"/>
-							<Position X="0" Y="0"/>
-						</Module>
-					</ModuleList>
 					<RTPCValueList ShowAll="true">
 						<RTPCValue>
 							<GameParameterRef Name="sfx_option" ID="{086672CD-C00B-406B-A0CE-3ACF8D71DBD5}"/>
@@ -69,12 +63,8 @@
 						</RTPCValue>
 					</RTPCValueList>
 					<CurrentStateList ShowAll="true">
-						<CurrentStateRef Name="None" ID="{5C77FF34-E54E-4540-9C2A-E8D80FD0D732}"/>
-						<CurrentStateRef Name="None" ID="{849D51DB-4C48-4451-BE60-C2481E00CF6D}"/>
-						<CurrentStateRef Name="None" ID="{66136303-251A-4768-AE5F-4E9002CCAA94}"/>
 						<CurrentStateRef Name="None" ID="{E0B24A83-7344-4BBC-9C2B-EEF5D27C6E98}"/>
 						<CurrentStateRef Name="None" ID="{D29CAAAB-C7A2-432B-95F2-FC59512D43D8}"/>
-						<CurrentStateRef Name="in" ID="{E2B407A9-2AAD-4DEA-AA4E-E1169A21421F}"/>
 						<CurrentStateRef Name="None" ID="{D28B14E7-9A31-42D4-834A-8342D2B2C93C}"/>
 					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">

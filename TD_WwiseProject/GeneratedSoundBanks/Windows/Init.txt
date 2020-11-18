@@ -1,20 +1,27 @@
 State Group	ID	Name			Wwise Object Path	Notes
+	453242039	level_state			\Default Work Unit\Level\level_state	
 	565615430	level_tutorial			\Default Work Unit\Level\level_tutorial	
-	1647651597	credits_in			\Default Work Unit\GeneralGame\credits_in	
 	1683582579	ratary_open			\Default Work Unit\GeneralGame\ratary_open	
-	2772308904	game_pause			\Default Work Unit\Level\game_pause	
-	3754275798	level_horde			\Default Work Unit\Level\level_horde	
+	4071417932	player_state			\Default Work Unit\Level\player_state	
 	4094426505	menu_scene			\Default Work Unit\GeneralGame\menu_scene	
-	4210176465	level_normal			\Default Work Unit\Level\level_normal	
 
 State	ID	Name	State Group			Notes
+	748895195	None	level_state			
+	1221014415	Win_state	level_state			
+	1353407533	Level_state_alive	level_state			
+	23814027	LevelT_state_alive	level_tutorial			
 	748895195	None	level_tutorial			
-	748895195	None	credits_in			
+	3483846669	WinT_state	level_tutorial			
 	748895195	None	ratary_open			
-	748895195	None	game_pause			
-	748895195	None	level_horde			
+	42241658	alive_state	player_state			
+	748895195	None	player_state			
+	3563746397	dead_state	player_state			
+	644653880	tut	menu_scene			
 	748895195	None	menu_scene			
-	748895195	None	level_normal			
+	1048449605	map	menu_scene			
+	2201105581	credits	menu_scene			
+	2607556080	menu	menu_scene			
+	2782712965	level	menu_scene			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	504532776	Brick			\Factory Reflect Acoustic Textures\Textures\Brick	

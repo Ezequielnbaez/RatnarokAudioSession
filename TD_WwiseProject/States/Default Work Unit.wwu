@@ -8,13 +8,11 @@
 						<StateGroup Name="menu_scene" ID="{C1BD1C7F-E101-4E96-9791-461463EE1EA1}">
 							<ChildrenList>
 								<State Name="None" ID="{D28B14E7-9A31-42D4-834A-8342D2B2C93C}"/>
-							</ChildrenList>
-						</StateGroup>
-						<StateGroup Name="credits_in" ID="{865EFFA5-0C8D-4D37-AF76-5F73F017F42E}">
-							<ChildrenList>
-								<State Name="None" ID="{F7D31DE7-D21F-44D9-8C52-30AB46BD7C86}"/>
-								<State Name="in" ID="{E2B407A9-2AAD-4DEA-AA4E-E1169A21421F}"/>
-								<State Name="out" ID="{201479D4-EEAF-4A1A-BE63-680183C23709}"/>
+								<State Name="credits" ID="{ED6C0CCF-DACA-46D0-B8C3-6F7480269F16}"/>
+								<State Name="menu" ID="{21A13281-66AD-41DC-A2D7-4142EDE925AA}"/>
+								<State Name="map" ID="{712581A6-9791-45B5-8E72-1036B9382B98}"/>
+								<State Name="tut" ID="{501CE23B-53FA-4BB6-B092-B01D78AEADF7}"/>
+								<State Name="level" ID="{F97281DF-7445-4B72-A49A-893DE69F4EF4}"/>
 							</ChildrenList>
 						</StateGroup>
 						<StateGroup Name="ratary_open" ID="{CD59765C-8410-47E4-BC24-6C3C4F9C0D1C}">
@@ -26,24 +24,25 @@
 				</Folder>
 				<Folder Name="Level" ID="{C00E6D51-2BF1-4B93-8B9E-6FF0F8E946A4}" ShortID="1035826261">
 					<ChildrenList>
-						<StateGroup Name="level_horde" ID="{EFE5B2B7-DBD9-4426-9295-341DE31DFE62}">
-							<ChildrenList>
-								<State Name="None" ID="{66136303-251A-4768-AE5F-4E9002CCAA94}"/>
-							</ChildrenList>
-						</StateGroup>
-						<StateGroup Name="level_normal" ID="{C99FA795-E86D-4126-86EA-79CEC637193A}">
-							<ChildrenList>
-								<State Name="None" ID="{5C77FF34-E54E-4540-9C2A-E8D80FD0D732}"/>
-							</ChildrenList>
-						</StateGroup>
-						<StateGroup Name="game_pause" ID="{959945A7-3738-43B2-9CCE-2B38E4B11DFD}">
-							<ChildrenList>
-								<State Name="None" ID="{849D51DB-4C48-4451-BE60-C2481E00CF6D}"/>
-							</ChildrenList>
-						</StateGroup>
 						<StateGroup Name="level_tutorial" ID="{2F8A01E9-C5C2-4BC9-B472-B9D4C9D059B9}">
 							<ChildrenList>
 								<State Name="None" ID="{D29CAAAB-C7A2-432B-95F2-FC59512D43D8}"/>
+								<State Name="WinT_state" ID="{A709B7C9-D710-42B0-A5F2-6FA26F252524}"/>
+								<State Name="LevelT_state_alive" ID="{67F884FA-824F-43F3-ABD8-78DF49240B89}"/>
+							</ChildrenList>
+						</StateGroup>
+						<StateGroup Name="level_state" ID="{87562DFF-695D-42F9-B13A-458905DC3CF4}">
+							<ChildrenList>
+								<State Name="None" ID="{47AF38EC-78B8-4C12-96D0-65276622D29E}"/>
+								<State Name="Level_state_alive" ID="{F1750007-D457-4C33-A2DA-80AD2CE9A8B3}"/>
+								<State Name="Win_state" ID="{A04193BA-DD84-47D8-851C-6C1CE5B55887}"/>
+							</ChildrenList>
+						</StateGroup>
+						<StateGroup Name="player_state" ID="{C2AB4CB1-1A35-4F69-9FAD-40CB09CD257C}">
+							<ChildrenList>
+								<State Name="None" ID="{5AB0C7C0-DA26-4790-9A37-E543C6F5910E}"/>
+								<State Name="alive_state" ID="{8CC146C8-178D-47A2-A789-052373811008}"/>
+								<State Name="dead_state" ID="{3D461FE8-020F-4440-9B58-470C417099FA}"/>
 							</ChildrenList>
 						</StateGroup>
 					</ChildrenList>
