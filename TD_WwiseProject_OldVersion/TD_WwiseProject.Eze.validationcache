@@ -1,5 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Virtual Acoustics\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Triggers\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\TD_WwiseProject.wproj" DateLow="1605687021" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\TD_WwiseProject.Eze.wsettings" DateLow="1605706458" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Switches\Default Work Unit.wwu" DateLow="1605685713" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\States\Default Work Unit.wwu" DateLow="1605703603" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1605680885" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\SoundBanks\Default Work Unit.wwu" DateLow="1605703436" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Queries\Factory Queries.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Queries\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Presets\Factory Spatial Audio.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Presets\Factory Reflect.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Presets\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Modulators\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Mixing Sessions\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Interactive Music Hierarchy\Music.wwu" DateLow="1605704123" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Game Parameters\Factory Motion.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Game Parameters\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Events\Default Work Unit.wwu" DateLow="1605703436" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory Reflect.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory McDSP Effects.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory Mastering Suite.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory iZotope Filters.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory iZotope Dynamics.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory iZotope Delay.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory iZotope Box Modeler.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory Effects.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Factory Auro Headphone.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Effects\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Conversion Settings\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Control Surface Sessions\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Audio Devices\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Attenuations\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Actor-Mixer Hierarchy\GeneralMenu.wwu" DateLow="1605687021" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Actor-Mixer Hierarchy\FactoryTorrets.wwu" DateLow="1605687021" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Actor-Mixer Hierarchy\FactoryEnemy.wwu" DateLow="1605687021" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Documentos\RatnarokRepository\RatnarokAudioSession\TD_WwiseProject_OldVersion\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1605687021" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1605652128" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Eze\Downloads\Ratnarok-master\TD_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1605652128" DateHigh="0"/>
