@@ -3,6 +3,9 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{63E53ABE-2949-4D2C-B9E4-F060B589A83C}">
 			<PropertyList>
+				<Property Name="Event Action List\{36DFEBA2-1809-471C-B4DD-0F06D5911F74}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{D0693D2E-4310-4123-8D52-BAAAFC30B0A9}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{FDF05DAC-B654-44D8-B45E-9E90AF76DBB4}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
 						<Value Platform="Mac"></Value>
@@ -15,6 +18,9 @@
 						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
 					</ValueList>
 				</Property>
+				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value=""/>
+				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value=""/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value=""/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
 				<Property Name="MeterView\MeterMode1Viewpoint0" Type="int32" Value="1"/>
