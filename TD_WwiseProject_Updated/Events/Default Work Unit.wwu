@@ -235,7 +235,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="bardo_hit" ID="{2ED2F4EE-DF95-44FB-8242-E44E3A987BC6}">
+				<Event Name="bardo_attack" ID="{2ED2F4EE-DF95-44FB-8242-E44E3A987BC6}">
 					<ChildrenList>
 						<Action Name="" ID="{C7A4EA4D-62CC-4C08-9878-7C549B2B62F6}" ShortID="619811299">
 							<ReferenceList>
